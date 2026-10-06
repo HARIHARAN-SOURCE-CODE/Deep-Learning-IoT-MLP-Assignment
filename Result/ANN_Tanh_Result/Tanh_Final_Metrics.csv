@@ -1,0 +1,2 @@
+Model,Activation,Input_Features,Hidden_Neurons,Output_Neurons,Batch_Size,Learning_Rate,Training_Epochs,Accuracy,Precision,Recall,F1_Score,Training_Time_Seconds
+ANN-2 Tanh,Tanh,3,16,1,32,0.001,100,0.98,1.0,0.9682539682539683,0.9838709677419355,0.8750696182250977

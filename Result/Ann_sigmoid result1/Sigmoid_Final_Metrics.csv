@@ -1,0 +1,2 @@
+Model,Activation,Hidden_Neurons,Batch_Size,Learning_Rate,Training_Epochs,Accuracy,Precision,Recall,F1_Score,Training_Time_Seconds
+ANN-1 Sigmoid,Sigmoid,16,32,0.001,100,0.91,0.95,0.9047619047619048,0.926829268292683,0.7927296161651611
